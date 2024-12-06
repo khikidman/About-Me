@@ -8,6 +8,4 @@ I took my skills and began developing small games after school and manipulating 
 
 It was when I began attending the University of Illinois at Chicago that I discovered my ultimate goal to teach and inspire through innovation. I intend not only on pursuing a career in softeware engineering, but to help my peers and the next generation in learning and seeing the logical and analytical beauty of computer science and programming. I want to change the world of software for the betterment of people's daily lives.
 
-Highly skilled with data manipulation, algorithms, and object-oriented programming:
-Most proficient languages: C/C++, C#, Python
-Tools: SQL, Unity
+Highly skilled with data manipulation, algorithms, and object-oriented programming | Most proficient languages: C/C++, C#, Python | Tools: SQL, Unity
